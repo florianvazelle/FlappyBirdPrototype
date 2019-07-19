@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Fly : MonoBehaviour {
 
-    public float velocity = 3;
+    public float velocity = 1.4f;
     private Rigidbody2D colBird;
 
     public Manager gameManager;
